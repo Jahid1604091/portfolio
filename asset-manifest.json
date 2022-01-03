@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7670e0da.chunk.css",
-    "main.js": "/portfolio/static/js/main.c5fb094f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c5fb094f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.22cc29ea.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.22cc29ea.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a72e8d82.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a72e8d82.js.map",
     "static/js/2.9dc0efce.chunk.js": "/portfolio/static/js/2.9dc0efce.chunk.js",
@@ -12,14 +12,17 @@
     "static/js/2.9dc0efce.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9dc0efce.chunk.js.LICENSE.txt",
     "static/media/CV_updated.f0c63795.pdf": "/portfolio/static/media/CV_updated.f0c63795.pdf",
     "static/media/cocktail.8a0044f7.png": "/portfolio/static/media/cocktail.8a0044f7.png",
+    "static/media/comfy.e19812b1.png": "/portfolio/static/media/comfy.e19812b1.png",
     "static/media/cuet.ef11b64d.png": "/portfolio/static/media/cuet.ef11b64d.png",
     "static/media/event.4def7bab.png": "/portfolio/static/media/event.4def7bab.png",
+    "static/media/feedback.f8bb8c0b.png": "/portfolio/static/media/feedback.f8bb8c0b.png",
     "static/media/git-finder.794e24ee.png": "/portfolio/static/media/git-finder.794e24ee.png",
     "static/media/github-users.ecd15154.png": "/portfolio/static/media/github-users.ecd15154.png",
     "static/media/glozoom.6ca6ecdf.png": "/portfolio/static/media/glozoom.6ca6ecdf.png",
     "static/media/keeper.3ab634cf.png": "/portfolio/static/media/keeper.3ab634cf.png",
     "static/media/me2.e8aadbf6.jpg": "/portfolio/static/media/me2.e8aadbf6.jpg",
     "static/media/netflix.89836f58.png": "/portfolio/static/media/netflix.89836f58.png",
+    "static/media/pioneer.59083642.png": "/portfolio/static/media/pioneer.59083642.png",
     "static/media/proshop.833d827d.png": "/portfolio/static/media/proshop.833d827d.png",
     "static/media/sushi-monster.09f14d90.png": "/portfolio/static/media/sushi-monster.09f14d90.png",
     "static/media/todo.2991c1b4.png": "/portfolio/static/media/todo.2991c1b4.png"
@@ -28,6 +31,6 @@
     "static/js/runtime-main.a72e8d82.js",
     "static/js/2.9dc0efce.chunk.js",
     "static/css/main.7670e0da.chunk.css",
-    "static/js/main.c5fb094f.chunk.js"
+    "static/js/main.22cc29ea.chunk.js"
   ]
 }
